@@ -1,0 +1,22 @@
+body {
+  background-color: #cccccc;
+  font-size: 24px;
+}
+
+.container {
+  margin: 50px auto;
+  max-width: 960px;
+  text-align: center;
+}
+
+button {
+  padding: 20px 40px;
+  border-radius: 5px;
+  outline: none;
+  border: 2px solid #a3a3a3;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #a3a3a3;
+}
